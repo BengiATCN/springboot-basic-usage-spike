@@ -1,0 +1,6 @@
+name: dev-YAML
+environment: dev
+servers:
+    - www.dev0.com
+    - www.dev1.com
+#my.yml: devYml

@@ -1,0 +1,6 @@
+name: test-YAML
+environment: test
+servers:
+    - www.test0.com
+    - www.test1.com
+my.yml: testYml

@@ -1,0 +1,6 @@
+name: default-YAML
+environment: default
+servers:
+    - www.default0.com
+    - www.default1.com
+my.yml: defaultYml

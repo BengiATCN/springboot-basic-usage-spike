@@ -1,0 +1,6 @@
+name: pord-YAML
+environment: pord
+servers:
+    - www.pord0.com
+    - www.pord1.com
+my.yml: pordYml
